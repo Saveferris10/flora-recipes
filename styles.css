@@ -1,7 +1,7 @@
 h1 {
     color: black;
     background-color: green;
-    font-size: xx-large;
+    font-size: x-large;
     text-align: center;
     padding: 30px;
     border: 10px solid red;
@@ -17,7 +17,7 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 20px;
-    border: 10px solid black;
+    border: 10px solid red;
     box-sizing: border-box;
     margin: 100px;
 
@@ -29,7 +29,7 @@ h2 {
 }
 
 body {
-    background-image: url(https://i.natgeofe.com/n/5de6e34a-d550-4358-b7ef-4d79a09c680e/aerial-beach-miami-florida.jpg?w=2560&h=1706);
+    background-image: url(https://asianinspirations.com.au/wp-content/uploads/2019/07/Chinese-Cooking-Hacks.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
