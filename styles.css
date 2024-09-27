@@ -1,3 +1,17 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    flex-direction: column;
+    }
+.item {
+
+}
+
+body {
+    margin: 0 auto;
+}
+
 h1 {
     color: black;
     background-color: green;
@@ -11,15 +25,20 @@ h1 {
 
 }
 
-a {
-    color: yellow;
+.item {
+    color: green;
+    font-weight: 900px;
     font-size: larger;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif, Helvetica, Arial;
     text-align: center;
     padding: 20px;
     border: 10px solid red;
     box-sizing: border-box;
-    margin: 100px;
+    margin: 10px;
+    display: block;
+    width: 200px;
+    flex: 1;
+
 
 }    
 
